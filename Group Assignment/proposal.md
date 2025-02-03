@@ -1,4 +1,4 @@
-## Equity Analysis of Bikecarshes in LA
+## Equity Analysis of Bikecrashes in LA
 **Members: Jia Ni, Xingxiang Huang, Yuxiang Wei, Hao Wu, Yanling Sang**  
 
 **Introduction**  
