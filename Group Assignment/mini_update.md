@@ -6,6 +6,7 @@ Members: Jia Ni, Yuxiang Wei, Xingxiang Huang, Hao Wu, Yanling Sang
 
 **2. Roles**  
 - **Race Analysis -- Jia Ni**  
+Ni first cleaned the race data for each census tract and visualized the distribution of different races in LA. I also calculated the Shannon-Wiener diversity index based on the proportions of different races within each tract, which measures the balance of racial distribution within each tract, and visualized this index on the map. At the same time, I conducted a geospatial analysis of the bike crash data and performed a correlation analysis between the crash rates in each census tracts and the racial diversity index, in order to explore whether bike traffic safety issues in LA are related to race.
 
 - **Income Analysis -- Yuxiang Wei**  
 Wei integrated household median income data with bicycle crash data to analyze their spatial relationship across all census tracts in Los Angeles County. Income levels were categorized into low, middle, and high-income groups and mapped onto the census tracts. Bicycle crash data was processed into geospatial points, and an interactive map was created using Folium, with census tracts color-coded by income and bicycle crashes displayed as markers. Marker clustering was implemented for better visualization, and invalid points were removed. The final interactive map, saved as an HTML file, provides insights into the distribution of bicycle crashes and serves as a foundation for further analysis.
