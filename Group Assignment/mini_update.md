@@ -37,4 +37,7 @@ For the next steps, we aim to better understand how the five characteristics inf
 - Vehicle Ownership: [Means of Transportation to Work by Selected Characteristics](https://data.census.gov/table/ACSST5Y2023.S0802?t=Commuting&g=040XX00US06$1400000)  
 
 **5. Concerns**  
-
+- Some of the census tract data has a large number of missing values, which affects the quality of the data visualization and makes it difficult to clearly identify areas with significant characteristics on the maps.  
+- We have currently conducted separate correlation analyses for the five socio-economic characteristics, but have not yet performed multiple regression analyses. We are unsure whether the five selected key factors can adequately model the relationship between demographic characteristics and bike crashes.  
+- If the analyses of the entire LA County do not yield an effective model, should we further select smaller areas within LA County for comparative analysis to better explore the traffic safety issues in LA?  
+- Should we include a geographical analysis of bike lanes in LA?  
