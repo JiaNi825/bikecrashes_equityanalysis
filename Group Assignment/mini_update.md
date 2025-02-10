@@ -36,7 +36,6 @@ For the next steps, we aim to better understand how the five characteristics inf
 - Population: [ACS Demographic and Housing Estimates](https://data.census.gov/table/ACSDP5Y2023.DP05?t=Populations%20and%20People&g=050XX00US06037$1400000&tp=true)  
 - Age: [Age and Sex](https://data.census.gov/table/ACSST5Y2023.S0101?t=Age%20and%20Sex&g=050XX00US06037$1400000&tp=true)  
 - Vehicle Ownership: [Means of Transportation to Work by Selected Characteristics](https://data.census.gov/table/ACSST5Y2023.S0802?t=Commuting&g=040XX00US06$1400000)
-- [Census Tracts Shapefile(2023)](https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-los-angeles-county-ca-topological-faces-polygons-with-all-geoc) 
 
 **5. Concerns**  
 - Some of the census tract data has a large number of missing values, which affects the quality of the data visualization and makes it difficult to clearly identify areas with significant characteristics on the maps.  
